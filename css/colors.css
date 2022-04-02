@@ -1,0 +1,1968 @@
+/*------------------------------------------------------------------
+        File Name: color.css
+        Template Name: auricle
+-------------------------------------------------------------------*/
+
+/*------------------------------------------------------------------
+    1. default color
+-------------------------------------------------------------------*/
+
+@media (min-width: 992px) {
+    .white_header_font .menu > ul > li > a {
+        color: #fff;
+    }
+}
+
+.theme_color_bg {
+    background-color: #1e72bc;
+}
+
+.bt_main {
+    background: #1e72bc;
+}
+
+.bt_main:hover,
+.bt_main:focus {
+    background: #111;
+    color: #fff;
+}
+
+.reverse_bt.bt_main {
+    background: #30CFD0;
+}
+
+.reverse_bt.bt_main:hover,
+.reverse_bt.bt_main:focus {
+    background: #1e72bc;
+}
+
+.white_bt.bt_main {
+    color: #1e72bc;
+}
+
+.white_bt.bt_main:hover, 
+.white_bt.bt_main:focus {
+    background: #30CFD0;
+    color: #fff;
+}
+
+footer ul.social_icons li a:hover {
+    color: #4b31aa;
+}
+
+
+/*------------------------------------------------------------------
+    2. light sky blue
+-------------------------------------------------------------------*/
+
+.purple_theme ul.pagination li.page-item.active .page-link {
+	background: #1e72bc;
+    color: #fff;
+    border-color: #1e72bc;
+}
+
+/*------------------------------------------------------------------
+    2. light sky blue
+-------------------------------------------------------------------*/
+
+.light_sky_blue .menu > ul > li:hover > a,
+.light_sky_blue .menu > ul > li:focus > a,
+.light_sky_blue .menu > ul > li.active > a {
+    color: #21d8de;
+}
+
+.light_sky_blue .menu > ul > li > ul {
+    border-color: #21d8de;
+}
+
+.light_sky_blue .menu > ul > li > ul > li a:hover {
+    color: #21d8de;
+}
+
+.light_sky_blue .bt_main {
+    background: #21d8de;
+}
+
+.light_sky_blue .field button {
+    background: #21d8de;
+}
+
+.light_sky_blue .bt_main:hover,
+.light_sky_blue .bt_main:focus {
+    color: #fff;
+    background: #f33939;
+}
+
+.light_sky_blue .field button:hover,
+.light_sky_blue .field button:focus {
+    background: #f33939;
+}
+
+.light_sky_blue .social_icons li a:hover,
+.light_sky_blue .social_icons li a:focus {
+    color: #21d8de;
+}
+
+.light_sky_blue .heading_style_2 p.small_text {
+    color: #15acc3;
+}
+
+.light_sky_blue .team_imform p.team_mem_name {
+    color: #000;
+}
+
+.light_sky_blue .team_imform p {
+    color: #707070;
+}
+
+.light_sky_blue .white_bt.bt_main {
+    background: #fff;
+}
+
+.light_sky_blue .white_bt.bt_main:hover,
+.light_sky_blue .white_bt.bt_main:focus {
+    background: #21d8de;
+    color: #fff;
+}
+
+
+/** menu **/
+
+.light_sky_blue .menu-mobile:hover,
+.light_sky_blue .menu-mobile:focus {}
+
+.light_sky_blue .menu-mobile {
+    border-color: #21d8de;
+    color: #21d8de;
+}
+
+
+/*------------------------------------------------------------------
+    2. yellow
+-------------------------------------------------------------------*/
+
+.heading_style_3 h2::after {
+    background: #ffb125;
+}
+
+.yellow_theme .menu > ul > li:hover > a,
+.yellow_theme .menu > ul > li:focus > a,
+.yellow_theme .menu > ul > li.active > a {
+    color: #ffb125;
+}
+
+.yellow_theme .menu > ul > li > ul {
+    border-color: #ffb125;
+}
+
+.yellow_theme .menu > ul > li > ul > li a:hover {
+    color: #ffb125;
+}
+
+.yellow_theme .bt_main {
+    background: #ffb125;
+}
+
+.yellow_theme .field button {
+    background: #ffb125;
+    color: #fff;
+}
+
+.yellow_theme .bt_main:hover,
+.yellow_theme .bt_main:focus {
+    color: #fff;
+    background: #1f222a;
+}
+
+.yellow_theme .field button:hover,
+.yellow_theme .field button:focus {
+    background: #1f222a;
+}
+
+.yellow_theme .social_icons li a:hover,
+.yellow_theme .social_icons li a:focus {
+    color: #ffb125;
+}
+
+.yellow_theme .heading_style_2 p.small_text {
+    color: #1f222a;
+}
+
+.yellow_theme .team_imform p.team_mem_name {
+    color: #000;
+}
+
+.yellow_theme .team_imform p {
+    color: #707070;
+}
+
+.yellow_theme .white_bt.bt_main {
+    background: #fff;
+}
+
+.yellow_theme .white_bt.bt_main:hover,
+.yellow_theme .white_bt.bt_main:focus {
+    background: #ffb125;
+    color: #fff;
+}
+
+/** menu **/
+
+.yellow_theme .menu-mobile:hover,
+.menu-mobile:focus {}
+
+.yellow_theme .menu-mobile {
+    border-color: #ffb125;
+    color: #ffb125;
+}
+
+/*------------------------------------------------------------------
+    3. golden yellow
+-------------------------------------------------------------------*/
+
+.dark_bg h3,
+.dark_bg span,
+.dark_bg p {
+    color: #fff;
+}
+
+.heading_style_4 h2::after {
+    background: #c9b072;
+}
+
+.slide_banner4 div.slide_bt a {
+    margin-right: 7px;
+}
+
+.golden_yellow_theme .menu > ul > li:hover > a,
+.golden_yellow_theme .menu > ul > li:focus > a,
+.golden_yellow_theme .menu > ul > li.active > a {
+    color: #c9b072;
+}
+
+.golden_yellow_theme .menu > ul > li > ul {
+    border-color: #c9b072;
+}
+
+.golden_yellow_theme .menu > ul > li > ul > li a:hover {
+    color: #c9b072;
+}
+
+.golden_yellow_theme .bt_main {
+    background: #c9b072;
+    border: solid #c9b072 1px;
+}
+
+.golden_yellow_theme .field button {
+    background: #c9b072;
+}
+
+.golden_yellow_theme .field button:hover,
+.golden_yellow_theme .field button:focus {
+    background: #343434;
+    color: #fff;
+}
+
+.golden_yellow_theme .bt_main:hover,
+.golden_yellow_theme .bt_main:focus {
+    color: #fff;
+    background: transparent;
+    border: solid #c9b072 1px;
+    color: #c9b072;
+}
+
+.golden_yellow_theme .social_icons li a:hover,
+.golden_yellow_theme .social_icons li a:focus {
+    color: #c9b072;
+}
+
+.golden_yellow_theme .heading_style_2 p.small_text {
+    color: #323232;
+}
+
+.golden_yellow_theme .team_imform p.team_mem_name {
+    color: #000;
+}
+
+.golden_yellow_theme .team_imform p {
+    color: #707070;
+}
+
+.golden_yellow_theme section .social_icons li a:hover,
+.golden_yellow_theme section .social_icons li a:focus {
+    color: #c9b072;
+}
+
+.golden_yellow_theme a.transparent_bt {
+    color: #c9b072;
+}
+
+.golden_yellow_theme .theme_color {
+    color: #c9b072 !important;
+}
+
+.golden_yellow_theme .filter-button:hover,
+.golden_yellow_theme .filter-button:focus {
+    color: #ddc688 !important;
+}
+
+.golden_yellow_theme .white_bt.bt_main {
+    background: #fff;
+}
+
+.golden_yellow_theme .white_bt.bt_main:hover,
+.golden_yellow_theme .white_bt.bt_main:focus {
+    background: #c9b072;
+    color: #fff;
+}
+
+/** menu **/
+
+.golden_yellow_theme .menu-mobile:hover,
+.golden_yellow_theme .menu-mobile:focus {
+    color: #fff;
+    border-color: #fff;
+}
+
+.golden_yellow_theme .menu-mobile {
+    border-color: #d9bf77;
+    color: #d9bf77;
+}
+
+/*------------------------------------------------------------------
+    3. green theme
+-------------------------------------------------------------------*/
+
+.green_theme .menu > ul > li:hover > a,
+.green_theme .menu > ul > li:focus > a,
+.green_theme .menu > ul > li.active > a {
+    color: #93cc39;
+}
+
+.green_theme .menu > ul > li > ul {
+    border-color: #93cc39;
+}
+
+.green_theme .menu > ul > li > ul > li a:hover {
+    color: #93cc39;
+}
+
+.green_theme .bt_main {
+    background: #93cc39;
+    border: solid #93cc39 1px;
+}
+
+.green_theme .field button {
+    background: #93cc39;
+}
+
+.green_theme .field button:hover,
+.green_theme .field button:focus {
+    background: #343434;
+    color: #fff;
+}
+
+.green_theme .bt_main:hover,
+.green_theme .bt_main:focus {
+    color: #fff;
+    background: transparent;
+    border: solid #93cc39 1px;
+    color: #93cc39;
+}
+
+.green_theme .social_icons li a:hover,
+.green_theme .social_icons li a:focus {
+    color: #93cc39;
+}
+
+.green_theme .heading_style_2 p.small_text {
+    color: #323232;
+}
+
+.green_theme .team_imform p.team_mem_name {
+    color: #000;
+}
+
+.green_theme .team_imform p {
+    color: #707070;
+}
+
+.green_theme section .social_icons li a:hover,
+.green_theme section .social_icons li a:focus {
+    color: #93cc39;
+}
+
+.green_theme a.transparent_bt {
+    color: #93cc39;
+    padding: 0 20px;
+    min-width: 148px;
+    line-height: 50px;
+    font-size: 14px;
+}
+
+.green_theme .theme_color {
+    color: #93cc39 !important;
+}
+
+.green_theme .filter-button:hover,
+.green_theme .filter-button:focus {
+    color: #ddc688 !important;
+}
+
+.green_theme .theme_bg {
+    background-color: #93cc39;
+    background-image: none;
+    min-height: auto;
+}
+
+.green_theme .white_bt.bt_main {
+    background: #fff;
+    color: #93cc39;
+    text-transform: uppercase;
+    border: none;
+}
+
+.green_theme .white_bt.bt_main:hover,
+.green_theme .white_bt.bt_main:focus {
+    background: #222;
+    color: #fff;
+}
+
+/** menu **/
+
+.green_theme .menu-mobile:hover,
+.green_theme .menu-mobile:focus {
+    color: #fff;
+    border-color: #fff;
+}
+
+.green_theme .menu-mobile {
+    border-color: #93cc39;
+    color: #93cc39;
+}
+
+/** yellow theme 2 **/
+
+.yellow_2 .menu > ul > li:hover > a,
+.yellow_2 .menu > ul > li:focus > a,
+.yellow_2 .menu > ul > li.active > a {
+    color: #ffc200;
+}
+
+.yellow_2 .post_info ul li i {
+    color: #ffc200;
+}
+
+.readmore_bt i {
+    color: #ffc200;
+}
+
+.yellow_2 .overlay_effect {
+    background: rgba(255, 194, 0, .9);
+}
+
+.yellow_2 .menu > ul > li > ul {
+    border-color: #ffc200;
+}
+
+.yellow_2 .menu > ul > li > ul > li a:hover {
+    color: #ffc200;
+}
+
+.yellow_2 .bt_main {
+    background: #ffc200;
+}
+
+.yellow_2 .field button {
+    background: #ffc200;
+    color: #fff;
+}
+
+.yellow_2 .bt_main:hover,
+.yellow_2 .bt_main:focus {
+    color: #fff;
+    background: #1f222a;
+}
+
+.yellow_2 .field button:hover,
+.yellow_2 .field button:focus {
+    background: #1f222a;
+}
+
+.yellow_2 .social_icons li a:hover,
+.yellow_2 .social_icons li a:focus {
+    color: #ffc200;
+}
+
+.yellow_2 .heading_style_2 p.small_text {
+    color: #1f222a;
+}
+
+.yellow_2 .team_imform p.team_mem_name {
+    color: #000;
+}
+
+.yellow_2 .team_imform p {
+    color: #707070;
+}
+
+.yellow_2 .white_bt.bt_main {
+    background: #fff;
+}
+
+.yellow_2 .white_bt.bt_main:hover,
+.yellow_2 .white_bt.bt_main:focus {
+    background: #ffc200;
+    color: #fff;
+}
+
+.yellow_2 .reverse_bt.bt_main {
+    background: #252525;
+    color: #ffc200;
+}
+
+.reverse_bt.bt_main:hover,
+.reverse_bt.bt_main:focus {
+    background: #111;
+    color: #fff;
+}
+
+.yellow_2 p {
+    color: #252525;
+}
+
+.yellow_2 .theme_color {
+    color: #ffc200 !important;
+}
+
+.yellow_2 .theme_color:hover,
+.yellow_2 .theme_color:focus {
+
+}
+
+/** menu **/
+
+.yellow_2 .menu-mobile:hover,
+.menu-mobile:focus {}
+
+.yellow_2 .menu-mobile {
+    border-color: #ffb125;
+    color: #ffb125;
+}
+
+.yellow_2 .menu-mobile {
+    border-color: #ffc200;
+    color: #ffb125;
+}
+
+.yellow_theme .theme_color {
+    color: #ffc200 !important;
+}
+
+.white_fonts .heading_style_8::after {
+    background: #fff;
+}
+
+/** brown_color_theme **/
+
+.brown_color_theme .menu > ul > li:hover > a,
+.brown_color_theme .menu > ul > li:focus > a,
+.brown_color_theme .menu > ul > li.active > a {
+    color: #cda46a;
+}
+
+.brown_color_theme .menu > ul > li > ul {
+    border-color: #cda46a;
+}
+
+.brown_color_theme .menu > ul > li > ul > li a:hover {
+    color: #cda46a;
+}
+
+.brown_color_theme .bt_main {
+    background: #cda46a;
+}
+
+.brown_color_theme .field button {
+    background: #cda46a;
+    color: #fff;
+}
+
+.brown_color_theme .bt_main:hover,
+.brown_color_theme .bt_main:focus {
+    color: #fff;
+    background: #1f222a;
+}
+
+.brown_color_theme .field button:hover,
+.brown_color_theme .field button:focus {
+    background: #1f222a;
+}
+
+.brown_color_theme .social_icons li a:hover,
+.brown_color_theme .social_icons li a:focus {
+    color: #cda46a;
+}
+
+.brown_color_theme .heading_style_2 p.small_text {
+    color: #1f222a;
+}
+
+.brown_color_theme .team_imform p.team_mem_name {
+    color: #000;
+}
+
+.brown_color_theme .team_imform p {
+    color: #707070;
+}
+
+.brown_color_theme .white_bt.bt_main {
+    background: #fff;
+}
+
+.brown_color_theme .white_bt.bt_main:hover,
+.brown_color_theme .white_bt.bt_main:focus {
+    background: #cda46a;
+    color: #fff;
+}
+
+.brown_color_theme .reverse_bt.bt_main {
+    background: #252525;
+    color: #cda46a;
+}
+
+.brown_color_theme .reverse_bt.bt_main:hover,
+.brown_color_theme .reverse_bt.bt_main:focus {
+    background: #cda46a;
+    color: #252525;
+}
+
+.brown_color_theme p {
+    color: #252525;
+}
+
+.brown_color_theme .theme_color {
+    color: #cda46a !important;
+}
+
+.brown_color_theme .theme_color:hover,
+..brown_color_theme .theme_color:focus {
+    color: #222 !important;
+}
+
+/** menu **/
+
+.brown_color_theme .menu-mobile:hover,
+.menu-mobile:focus {}
+
+.brown_color_theme .menu-mobile {
+    border-color: #cda46a;
+    color: #cda46a;
+}
+
+.brown_color_theme .menu-mobile {
+    border-color: #cda46a;
+    color: #cda46a;
+}
+
+/** pink color theme **/
+
+.pink_color_theme .cont_boder_style_slide:after {
+    background: #ff4e58;
+}
+
+.pink_color_theme .menu > ul > li:hover > a,
+.pink_color_theme .menu > ul > li:focus > a,
+.pink_color_theme .menu > ul > li.active > a {
+    color: #ff4e58;
+}
+
+.pink_color_theme .menu > ul > li > ul {
+    border-color: #ff4e58;
+}
+
+.pink_color_theme .menu > ul > li > ul > li a:hover {
+    color: #ff4e58;
+}
+
+.pink_color_theme .field button {
+    background: #ff4e58;
+    color: #fff;
+}
+
+.pink_color_theme .bt_main:hover,
+.pink_color_theme .bt_main:focus {
+    color: #fff;
+    background: #ff4e58;
+}
+
+.pink_color_theme .field button:hover,
+.pink_color_theme .field button:focus {
+    background: #ff4e58;
+}
+
+.pink_color_theme .social_icons li a:hover,
+.pink_color_theme .social_icons li a:focus {
+    color: #ff4e58;
+}
+
+.pink_color_theme .heading_style_2 p.small_text {
+    color: #1f222a;
+}
+
+.pink_color_theme .team_imform p.team_mem_name {
+    color: #000;
+}
+
+.pink_color_theme .team_imform p {
+    color: #707070;
+}
+
+.pink_color_theme .white_bt.bt_main {
+    background: #fff;
+}
+
+.pink_color_theme .white_bt.bt_main:hover,
+.pink_color_theme .white_bt.bt_main:focus {
+    background: #ff4e58;
+    color: #fff;
+}
+
+.pink_color_theme .reverse_bt.bt_main {
+    background: #252525;
+    color: #ff4e58;
+}
+
+.pink_color_theme .reverse_bt.bt_main:hover,
+.pink_color_theme .reverse_bt.bt_main:focus {
+    background: #ff4e58;
+    color: #252525;
+}
+
+.pink_color_theme p {
+    color: #252525;
+}
+
+.pink_color_theme .theme_color {
+    color: #ff4e58 !important;
+}
+
+.pink_color_theme .theme_color:hover,
+..pink_color_theme .theme_color:focus {
+    color: #222 !important;
+}
+
+.pink_color_theme .bt_main {
+    background: #ff4e58;
+}
+
+.pink_color_theme .bt_main:hover,
+.pink_color_theme .bt_main:focus {
+    background: #292929;
+    color: #fff;
+}
+
+/** menu **/
+
+.pink_color_theme .menu-mobile:hover,
+.menu-mobile:focus {}
+
+.pink_color_theme .white_bt.bt_main {
+    background: #fff;
+    color: #ff4e58;
+}
+
+.pink_color_theme .white_bt.bt_main:hover,
+.pink_color_theme .white_bt.bt_main:focus {
+    background: #262626;
+    color: #fff;
+}
+
+.pink_color_theme .menu-mobile {
+    border-color: #ff4e58;
+    color: #ff4e58;
+}
+
+.pink_color_theme .menu-mobile {
+    border-color: #ff4e58;
+    color: #ff4e58;
+}
+
+.pink_color_theme .heading_style_7 h2 {
+    color: #ff4e58;
+}
+
+.pink_color_theme .heading_style_7 h2 small {
+    color: #707070;
+}
+
+.pink_color_theme .service_blog2::before {
+    background: #ff4e58;
+}
+
+.pink_color_theme .case_study_style_1 .feature_cont {
+    background: rgba(255, 78, 88, .9);
+}
+
+.pink_color_theme section.gray_color_hover_bg .service_blog2:hover::before,
+.pink_color_theme section.gray_color_hover_bg .service_blog2:focus::before {
+    background: #292929;
+}
+
+/** light pink color **/
+
+.light_pink .menu > ul > li:hover > a,
+.light_pink .menu > ul > li:focus > a,
+.light_pink .menu > ul > li.active > a {
+    color: #ff9de2;
+}
+
+.light_pink .menu > ul > li > ul {
+    border-color: #ff9de2;
+}
+
+.light_pink .menu > ul > li > ul > li a:hover {
+    color: #ff9de2;
+}
+
+.light_pink .bt_main {
+    background: #ff9de2;
+}
+
+.light_pink .field button {
+    background: #ff9de2;
+}
+
+.light_pink .bt_main:hover,
+.light_pink .bt_main:focus {
+    color: #fff;
+    background: #000;
+}
+
+.light_pink .field button:hover,
+.light_pink .field button:focus {
+    background: #000;
+}
+
+.light_pink .social_icons li a:hover,
+.light_pink .social_icons li a:focus {
+    color: #ff9de2;
+}
+
+.light_pink .heading_style_2 p.small_text {
+    color: #15acc3;
+}
+
+.light_pink .team_imform p.team_mem_name {
+    color: #000;
+}
+
+.light_pink .team_imform p {
+    color: #707070;
+}
+
+.light_pink .white_bt.bt_main {
+    background: #fff;
+    color: #f25d9c;
+}
+
+.light_pink .white_bt.bt_main:hover,
+.light_pink .white_bt.bt_main:focus {
+    background: #ff9de2;
+    color: #fff;
+}
+
+/** menu **/
+
+.light_pink .menu-mobile:hover,
+.light_pink .menu-mobile:focus {}
+
+.light_pink .menu-mobile {
+    border-color: #ff9de2;
+    color: #ff9de2;
+}
+
+/** light brown theme **/
+
+.light_brown .theme_color {
+    color: #d19d64 !important;
+}
+
+.light_brown .menu > ul > li:hover > a,
+.light_brown .menu > ul > li:focus > a,
+.light_brown .menu > ul > li.active > a {
+    color: #d19d64;
+}
+
+.light_brown .menu > ul > li > ul {
+    border-color: #d19d64;
+}
+
+.light_brown .menu > ul > li > ul > li a:hover {
+    color: #d19d64;
+}
+
+.light_brown .bt_main {
+    background: #d19d64;
+    color: #000;
+}
+
+.light_brown .field button {
+    background: #d19d64;
+    color: #000;
+}
+
+.light_brown .bt_main:hover,
+.light_brown .bt_main:focus {
+    color: #fff;
+    background: #000;
+}
+
+.light_brown .field button:hover,
+.light_brown .field button:focus {
+    background: #000;
+    color: #d19d64;
+}
+
+.light_brown .social_icons li a:hover,
+.light_brown .social_icons li a:focus {
+    color: #d19d64;
+}
+
+.light_brown .heading_style_2 p.small_text {
+    color: #15acc3;
+}
+
+.light_brown .team_imform p.team_mem_name {
+    color: #000;
+}
+
+.light_brown .team_imform p {
+    color: #707070;
+}
+
+.light_brown .white_bt.bt_main {
+    background: #fff;
+    color: #d19d64;
+}
+
+.light_brown .white_bt.bt_main:hover,
+.light_brown .white_bt.bt_main:focus {
+    background: #d19d64;
+    color: #fff;
+}
+
+/** menu **/
+
+.light_brown .menu-mobile:hover,
+.light_brown .menu-mobile:focus {}
+
+.light_brown .menu-mobile {
+    border-color: #d19d64;
+    color: #d19d64;
+}
+
+/** yello color 3 **/
+
+.yellow_3 .theme_color {
+    color: #e4b95b !important;
+}
+
+.yellow_3 .theme_color_bg {
+    background: #e4b95b !important;
+}
+
+.yellow_3 .menu > ul > li:hover > a,
+.yellow_3 .menu > ul > li:focus > a,
+.yellow_3 .menu > ul > li.active > a {
+    color: #e4b95b;
+}
+
+.yellow_3 .menu > ul > li > ul {
+    border-color: #e4b95b;
+}
+
+.yellow_3 .menu > ul > li > ul > li a:hover {
+    color: #e4b95b;
+}
+
+.yellow_3 .bt_main {
+    background: #e4b95b;
+    color: #000;
+}
+
+.yellow_3 .field button {
+    background: #e4b95b;
+    color: #000;
+}
+
+.yellow_3 .bt_main:hover,
+.yellow_3 .bt_main:focus {
+    color: #fff;
+    background: #000;
+}
+
+.yellow_3 .field button:hover,
+.yellow_3 .field button:focus {
+    background: #000;
+    color: #e4b95b;
+}
+
+.yellow_3 .heading_style_2 p.small_text {
+    color: #15acc3;
+}
+
+.yellow_3 .team_imform p.team_mem_name {
+    color: #000;
+}
+
+.yellow_3 .team_imform p {
+    color: #707070;
+}
+
+.yellow_3 .white_bt.bt_main {
+    background: #fff;
+    color: #e4b95b;
+}
+
+.yellow_3 .white_bt.bt_main:hover,
+.yellow_3 .white_bt.bt_main:focus {
+    background: #e4b95b;
+    color: #fff;
+}
+
+/** menu **/
+
+.yellow_3 .menu-mobile:hover,
+.yellow_3 .menu-mobile:focus {}
+
+.yellow_3 .menu-mobile {
+    border-color: #e4b95b;
+    color: #e4b95b;
+}
+
+/** light purple color **/
+
+.light_purple .menu > ul > li:hover > a,
+.light_purple .menu > ul > li:focus > a,
+.light_purple .menu > ul > li.active > a {
+    color: #ce93d8;
+}
+
+.light_purple .menu > ul > li > ul {
+    border-color: #ce93d8;
+}
+
+.light_purple .menu > ul > li > ul > li a:hover {
+    color: #ce93d8;
+}
+
+.light_purple .bt_main {
+    background: #ce93d8;
+}
+
+.light_purple .field button {
+    background: #ce93d8;
+}
+
+.light_purple .bt_main:hover,
+.light_purple .bt_main:focus {
+    color: #fff;
+    background: #000;
+}
+
+.light_purple .field button:hover,
+.light_purple .field button:focus {
+    background: #000;
+}
+
+.light_purple .social_icons li a:hover,
+.light_purple .social_icons li a:focus {
+    color: #ce93d8;
+}
+
+.light_purple .heading_style_2 p.small_text {
+    color: #15acc3;
+}
+
+.light_purple .team_imform p.team_mem_name {
+    color: #000;
+}
+
+.light_purple .team_imform p {
+    color: #707070;
+}
+
+.light_purple .white_bt.bt_main {
+    background: #fff;
+    color: #ce93d8;
+}
+
+.light_purple .white_bt.bt_main:hover,
+.light_purple .white_bt.bt_main:focus {
+    background: #ce93d8;
+    color: #fff;
+}
+
+/** menu **/
+
+.light_purple .menu-mobile:hover,
+.light_purple .menu-mobile:focus {}
+
+.light_purple .menu-mobile {
+    border-color: #ce93d8;
+    color: #ce93d8;
+}
+
+/** blue theme **/
+
+.blue_bg {
+    background: #118df0;
+}
+
+.blue_theme .menu > ul > li:hover > a,
+.blue_theme .menu > ul > li:focus > a,
+.blue_theme .menu > ul > li.active > a {
+    color: #118df0;
+}
+
+.blue_theme .menu > ul > li > ul {
+    border-color: #118df0;
+}
+
+.blue_theme .menu > ul > li > ul > li a:hover {
+    color: #118df0;
+}
+
+.blue_theme .bt_main {
+    background: #118df0;
+}
+
+.blue_theme .field button {
+    background: #118df0;
+}
+
+.blue_theme .bt_main:hover,
+.blue_theme .bt_main:focus {
+    color: #fff;
+    background: #000;
+}
+
+.blue_theme .field button:hover,
+.blue_theme .field button:focus {
+    background: #000;
+}
+
+.blue_theme .social_icons li a:hover,
+.blue_theme .social_icons li a:focus {
+    color: #118df0;
+}
+
+.blue_theme .heading_style_2 p.small_text {
+    color: #15acc3;
+}
+
+.blue_theme .team_imform p.team_mem_name {
+    color: #000;
+}
+
+.blue_theme .team_imform p {
+    color: #707070;
+}
+
+.blue_theme .white_bt.bt_main {
+    background: #fff;
+    color: #118df0;
+}
+
+.blue_theme .white_bt.bt_main:hover,
+.blue_theme .white_bt.bt_main:focus {
+    background: #118df0;
+    color: #fff;
+}
+
+/** menu **/
+
+.blue_theme .menu-mobile:hover,
+.blue_theme .menu-mobile:focus {}
+
+.blue_theme .menu-mobile {
+    border-color: #118df0;
+    color: #118df0;
+}
+
+/** blue2 theme **/
+
+.blue2_theme .menu > ul > li:hover > a,
+.blue2_theme .menu > ul > li:focus > a,
+.blue2_theme .menu > ul > li.active > a {
+    color: #4f6dcd;
+}
+
+.blue2_theme .theme_color {
+    color: #4f6dcd;
+}
+
+.blue2_theme .header_top.top_imform li i {
+    color: #4f6dcd;
+}
+
+.blue2_theme .menu > ul > li > ul {
+    border-color: #4f6dcd;
+}
+
+.blue2_theme .menu > ul > li > ul > li a:hover {
+    color: #4f6dcd;
+}
+
+.blue2_theme .bt_main {
+    background: #4f6dcd;
+}
+
+.blue2_theme .field button {
+    background: #4f6dcd;
+}
+
+.blue2_theme .bt_main:hover,
+.blue2_theme .bt_main:focus {
+    color: #fff;
+    background: #000;
+}
+
+.blue2_theme .field button:hover,
+.blue2_theme .field button:focus {
+    background: #000;
+}
+
+.blue2_theme .social_icons li a:hover,
+.blue2_theme .social_icons li a:focus {
+    color: #4f6dcd;
+}
+
+.blue2_theme .heading_style_2 p.small_text {
+    color: #4f6dcd;
+}
+
+.blue2_theme .team_imform p.team_mem_name {
+    color: #000;
+}
+
+.blue2_theme .team_imform p {
+    color: #435aa1;
+}
+
+.blue2_theme .white_bt.bt_main {
+    background: #fff;
+    color: #4f6dcd;
+}
+
+.blue2_theme .white_bt.bt_main:hover,
+.blue2_theme .white_bt.bt_main:focus {
+    background: #4f6dcd;
+    color: #fff;
+}
+
+/** menu **/
+
+.blue2_theme .menu-mobile:hover,
+.blue2_theme .menu-mobile:focus {}
+
+.blue2_theme .menu-mobile {
+    border-color: #435aa1;
+    color: #435aa1;
+}
+
+/** blue 3 **/
+
+.blue3_theme .theme_color_bg {
+    background-color: #0163d2;
+}
+
+.blue3_theme .menu > ul > li:hover > a,
+.blue3_theme .menu > ul > li:focus > a,
+.blue3_theme .menu > ul > li.active > a {
+    color: #00d9ef;
+}
+
+.blue3_theme .header_top.top_imform li i {
+    color: #0163d2;
+}
+
+.blue3_theme .menu > ul > li > ul {
+    border-color: #0163d2;
+}
+
+.blue3_theme .menu > ul > li > ul > li a:hover {
+    color: #0163d2;
+}
+
+.blue3_theme .bt_main {
+    background: #0163d2;
+}
+
+.blue3_theme .field button {
+    background: #257ee2;
+}
+
+.blue3_theme .field button:hover,
+.blue3_theme .field button:focus {
+    background: #2ea6ff;
+    color: #fff;
+}
+
+.blue3_theme .bt_main:hover,
+.blue3_theme .bt_main:focus {
+    color: #fff;
+    background: #2ea6ff;
+}
+
+.blue3_theme .social_icons li a:hover,
+.blue3_theme .social_icons li a:focus {
+    color: #0163d2;
+}
+
+.blue3_theme .heading_style_2 p.small_text {
+    color: #0163d2;
+}
+
+.blue3_theme .team_imform p.team_mem_name {
+    color: #000;
+}
+
+.blue3_theme .team_imform p {
+    color: #435aa1;
+}
+
+.blue3_theme .white_bt.bt_main {
+    background: #fff;
+    color: #0163d2;
+}
+
+.blue3_theme .white_bt.bt_main:hover,
+.blue3_theme .white_bt.bt_main:focus {
+    background: #0163d2;
+    color: #fff;
+}
+
+/** menu **/
+
+.blue3_theme .menu-mobile:hover,
+.funkyred_theme .menu-mobile:focus {}
+
+.blue3_theme .menu-mobile {
+    border-color: #0163d2;
+    color: #0163d2;
+}
+
+.green_bg {
+    background: #62ac01 !important;
+}
+
+.product_detail_page .tab_bar_section ul.nav.nav-tabs li a.active {
+	background: #0163d2;
+	color: #fff;
+}
+
+/** funky red **/
+
+.funkyred_theme .theme_color_bg {
+    background-color: #ec4045;
+}
+
+.funkyred_theme.product_detail_page .tab_bar_section ul.nav.nav-tabs li a.active {
+    background-color: #ec4045;
+}
+
+.funkyred_theme .menu > ul > li:hover > a,
+.funkyred_theme .menu > ul > li:focus > a,
+.funkyred_theme .menu > ul > li.active > a {
+    color: #ec4045;
+}
+
+.funkyred_theme .header_top.top_imform li i {
+    color: #ec4045;
+}
+
+.funkyred_theme .menu > ul > li > ul {
+    border-color: #ec4045;
+}
+
+.funkyred_theme .menu > ul > li > ul > li a:hover {
+    color: #ec4045;
+}
+
+.funkyred_theme .bt_main {
+    background: #ec4045;
+}
+
+.funkyred_theme .field button {
+    background: #ec4045;
+}
+
+.funkyred_theme .field button:hover,
+.funkyred_theme .field button:focus {
+    background: #ec4045;
+    color: #fff;
+}
+
+.funkyred_theme .bt_main:hover,
+.funkyred_theme .bt_main:focus {
+    color: #fff;
+    background: #f7941e;
+}
+
+.funkyred_theme .social_icons li a:hover,
+.funkyred_theme .social_icons li a:focus {
+    color: #f7941e;
+}
+
+.funkyred_theme .heading_style_2 p.small_text {
+    color: #ec4045;
+}
+
+.funkyred_theme .team_imform p.team_mem_name {
+    color: #000;
+}
+
+.funkyred_theme .team_imform p {
+    color: #ec4045;
+}
+
+.funkyred_theme .white_bt.bt_main {
+    background: #fff;
+    color: #ec4045;
+}
+
+.funkyred_theme .white_bt.bt_main:hover,
+.funkyred_theme .white_bt.bt_main:focus {
+    background: #f7941e;
+    color: #fff;
+}
+
+/** menu **/
+
+.funkyred_theme .menu-mobile:hover,
+.funkyred_theme .menu-mobile:focus {}
+
+.funkyred_theme .menu-mobile {
+    border-color: #ec4045;
+    color: #ec4045;
+}
+
+/** light red **/
+
+.light_red .theme_color_bg {
+    background-color: #ff9999;
+}
+
+.light_red .menu > ul > li:hover > a,
+.light_red .menu > ul > li:focus > a,
+.light_red .menu > ul > li.active > a {
+    color: #ff9999 !important;
+}
+
+.light_red .header_top.top_imform li i {
+    color: #ff9999;
+}
+
+.light_red .menu > ul > li > ul {
+    border-color: #ff9999;
+}
+
+.light_red .menu > ul > li > ul > li a:hover {
+    color: #ff9999;
+}
+
+.light_red .bt_main {
+    background: #ff9999;
+}
+
+.light_red .field button {
+    background: #ff9999;
+}
+
+.light_red .field button:hover,
+.light_red .field button:focus {
+    background: #ff9999;
+    color: #fff;
+}
+
+.light_red .bt_main:hover,
+.light_red .bt_main:focus {
+    color: #fff;
+    background: #3e4149;
+}
+
+.light_red .social_icons li a:hover,
+.light_red .social_icons li a:focus {
+    color: #3e4149;
+}
+
+.light_red .heading_style_2 p.small_text {
+    color: #ff9999;
+}
+
+.light_red .team_imform p.team_mem_name {
+    color: #000;
+}
+
+.light_red .team_imform p {
+    color: #ec4045;
+}
+
+.light_red .white_bt.bt_main {
+    background: #fff;
+    color: #ff9999;
+}
+
+.light_red .white_bt.bt_main:hover,
+.light_red .white_bt.bt_main:focus {
+    background: #3e4149;
+    color: #fff;
+}
+
+.light_red .theme_color {
+    color: #ff9999 !important;
+}
+
+.light_red .product_price {
+    color: #ff9999;
+}
+
+/** menu **/
+
+.light_red .menu-mobile:hover,
+.light_red .menu-mobile:focus {}
+
+.light_red .menu-mobile {
+    border-color: #ff9999;
+    color: #ff9999;
+}
+
+.light_red .add-bt {
+    background: #ff9999;
+    color: #fff;
+}
+
+.light_red .border_bt {
+    width: 170px;
+    border: solid #ff9999 1px;
+    color: #ff9999;
+    float: left;
+    text-align: center;
+    height: 45px;
+    line-height: 45px;
+    font-weight: 500;
+}
+
+.light_red .border_bt:hover,
+.light_red .border_bt:focus {
+    background: #ff9999;
+    color: #fff;
+}
+
+.light_red .newslatterform form button {
+    background: #ff9999;
+    transition: ease all 0.5s;
+}
+
+.light_red .newslatterform form button:hover,
+.light_red .newslatterform form button:focus {
+    background: #444f5a;
+}
+
+.light_red .newslatter .read_more_bt {
+    color: #ff9999;
+}
+
+.light_red .newslatter .read_more_bt:hover,
+.light_red .newslatter .read_more_bt:focus {
+    color: #444f5a;
+}
+
+/** orange theme **/
+
+.orange_theme .theme_color_bg {
+    background-color: #ff5733;
+}
+
+.orange_theme .menu > ul > li:hover > a,
+.orange_theme .menu > ul > li:focus > a,
+.orange_theme .menu > ul > li.active > a {
+    color: #ff5733;
+}
+
+.orange_theme .header_top.top_imform li i {
+    color: #ff5733;
+}
+
+.orange_theme .menu > ul > li > ul {
+    border-color: #ff5733;
+}
+
+.orange_theme .menu > ul > li > ul > li a:hover {
+    color: #ff5733;
+}
+
+.orange_theme .bt_main {
+    background: #ff5733;
+}
+
+.orange_theme .field button {
+    background: #ff5733;
+}
+
+.orange_theme .field button:hover,
+.orange_theme .field button:focus {
+    background: #ff5733;
+    color: #fff;
+}
+
+.orange_theme .bt_main:hover,
+.orange_theme .bt_main:focus {
+    color: #fff;
+    background: #f7941e;
+}
+
+.orange_theme .social_icons li a:hover,
+.orange_theme .social_icons li a:focus {
+    color: #f7941e;
+}
+
+.orange_theme .heading_style_2 p.small_text {
+    color: #ff5733;
+}
+
+.orange_theme .team_imform p.team_mem_name {
+    color: #000;
+}
+
+.orange_theme .team_imform p {
+    color: #ff5733;
+}
+
+.orange_theme .white_bt.bt_main {
+    background: #fff;
+    color: #ff5733;
+}
+
+.orange_theme .white_bt.bt_main:hover,
+.orange_theme .white_bt.bt_main:focus {
+    background: #f7941e;
+    color: #fff;
+}
+
+.orange_theme .newslatterform form button {
+    background: #c70039;
+}
+
+/** menu **/
+
+.orange_theme .menu-mobile:hover,
+.orange_theme .menu-mobile:focus {}
+
+.orange_theme .menu-mobile {
+    border-color: #ff5733;
+    color: #ff5733;
+}
+
+/** sky blue **/
+
+.skyblue .theme_color_bg {
+    background-color: #7ecddf;
+}
+
+.skyblue .menu > ul > li:hover > a,
+.skyblue .menu > ul > li:focus > a,
+.skyblue .menu > ul > li.active > a {
+    color: #000;
+}
+
+.skyblue .header_top.top_imform li i {
+    color: #7ecddf;
+}
+
+.skyblue .menu > ul > li > ul {
+    border-color: #7ecddf;
+}
+
+.skyblue .menu > ul > li > ul > li a:hover {
+    color: #7ecddf;
+}
+
+.skyblue .bt_main {
+    background: #7ecddf;
+}
+
+.skyblue .field button {
+    background: #7ecddf;
+}
+
+.skyblue .field button:hover,
+.skyblue .field button:focus {
+    background: #000000;
+    color: #fff;
+}
+
+.skyblue .bt_main:hover,
+.skyblue .bt_main:focus {
+    color: #fff;
+    background: #000000;
+}
+
+.skyblue .social_icons li a:hover,
+.skyblue .social_icons li a:focus {
+    color: #000000;
+}
+
+.skyblue .heading_style_2 p.small_text {
+    color: #7ecddf;
+}
+
+.skyblue .team_imform p.team_mem_name {
+    color: #000;
+}
+
+.skyblue .team_imform p {
+    color: #7ecddf;
+}
+
+.skyblue .white_bt.bt_main {
+    background: #fff;
+    color: #7ecddf;
+}
+
+.skyblue .white_bt.bt_main:hover,
+.skyblue .white_bt.bt_main:focus {
+    background: #000000;
+    color: #fff;
+}
+
+.skyblue .newslatterform form button {
+    background: #5bbdd4;
+}
+
+/** menu **/
+
+.skyblue .menu-mobile:hover,
+.skyblue .menu-mobile:focus {}
+
+.skyblue .menu-mobile {
+    border-color: #fff;
+    color: #fff;
+}
+
+.skyblue .read_more_bt {
+    color: #7ecddf;
+}
+
+.skyblue .overlay_effect {
+    background: rgba(126, 205, 223, .9);
+}
+
+/** orange theme 2 **/
+
+.orange2_theme .theme_color_bg {
+    background-color: #ec774b;
+}
+
+.orange2_theme .menu > ul > li:hover > a,
+.orange2_theme .menu > ul > li:focus > a,
+.orange2_theme .menu > ul > li.active > a {
+    color: #000;
+}
+
+.orange2_theme .header_top.top_imform li i {
+    color: #ec774b;
+}
+
+.orange2_theme .menu > ul > li > ul {
+    border-color: #ec774b;
+}
+
+.orange2_theme .menu > ul > li > ul > li a:hover {
+    color: #ec774b;
+}
+
+.orange2_theme .bt_main {
+    background: #ec774b;
+    text-transform: uppercase;
+}
+
+.orange2_theme .bt_main {
+    border-bottom: solid #b85733 3px;
+}
+
+.orange2_theme .field button {
+    background: #ec774b;
+}
+
+.orange2_theme .field button:hover,
+.orange2_theme .field button:focus {
+    background: #b85733;
+    color: #fff;
+}
+
+.orange2_theme .bt_main:hover,
+.orange2_theme .bt_main:focus {
+    color: #fff;
+    background: #b85733;
+    border-color: #b85733;
+}
+
+.orange2_theme .social_icons li a:hover,
+.orange2_theme .social_icons li a:focus {
+    color: #000000;
+}
+
+.orange2_theme .heading_style_2 p.small_text {
+    color: #ec774b;
+}
+
+.orange2_theme .team_imform p.team_mem_name {
+    color: #000;
+}
+
+.orange2_theme .team_imform p {
+    color: #ec774b;
+}
+
+.orange2_theme .white_bt.bt_main {
+    background: #fff;
+    color: #ec774b;
+}
+
+.orange2_theme .white_bt.bt_main:hover,
+.orange2_theme .white_bt.bt_main:focus {
+    background: #000000;
+    color: #fff;
+}
+
+.orange2_theme .newslatterform form button {
+    background: #5bbdd4;
+}
+
+/** menu **/
+
+.orange2_theme .menu-mobile:hover,
+.orange2_theme .menu-mobile:focus {}
+
+.orange2_theme .menu-mobile {
+    border-color: #ec774b;
+    color: #ec774b;
+}
+
+.orange2_theme .read_more_bt {
+    color: #ec774b;
+}
+
+.orange2_theme .post_info ul li i {
+    color: #ec774b;
+}
+
+.orange2_theme .read_more_bt:hover,
+.orange2_theme .read_more_bt:focus {
+    color: #b85733;
+}
+
+.orange2_theme .overlay_effect {
+    background: rgba(126, 205, 223, .9);
+}
+
+/** blue_green_theme **/
+
+.blue_green_theme .theme_color_bg {
+    background-color: #17c967;
+}
+
+.blue_green_theme .menu > ul > li:hover > a,
+.blue_green_theme .menu > ul > li:focus > a,
+.blue_green_theme .menu > ul > li.active > a {
+    color: #000;
+}
+
+.blue_green_theme .header_top.top_imform li i {
+    color: #17c967;
+}
+
+.blue_green_theme .menu > ul > li > ul {
+    border-color: #17c967;
+}
+
+.blue_green_theme .menu > ul > li > ul > li a:hover {
+    color: #17c967;
+}
+
+.blue_green_theme .bt_main {
+    background: #17c967;
+    text-transform: uppercase;
+}
+
+.blue_green_theme .field button {
+    background: #17c967;
+}
+
+.blue_green_theme .field button:hover,
+.blue_green_theme .field button:focus {
+    background: #416480;
+    color: #fff;
+}
+
+.blue_green_theme .bt_main:hover,
+.blue_green_theme .bt_main:focus {
+    color: #fff;
+    background: #416480;
+}
+
+.blue_green_theme .social_icons li a:hover,
+.blue_green_theme .social_icons li a:focus {
+    color: #000000;
+}
+
+.blue_green_theme .heading_style_2 p.small_text {
+    color: #17c967;
+}
+
+.blue_green_theme .team_imform p.team_mem_name {
+    color: #000;
+}
+
+.blue_green_theme .team_imform p {
+    color: #17c967;
+}
+
+.blue_green_theme .white_bt.bt_main {
+    background: #fff;
+    color: #17c967;
+}
+
+.blue_green_theme .white_bt.bt_main:hover,
+.blue_green_theme .white_bt.bt_main:focus {
+    background: #000000;
+    color: #fff;
+}
+
+.blue_green_theme .newslatterform form button {
+    background: #5bbdd4;
+}
+
+.blue_green_theme .menu-mobile:hover,
+.blue_green_theme .menu-mobile:focus {}
+
+.blue_green_theme .menu-mobile {
+    border-color: #fff;
+    color: #fff;
+}
+
+.blue_green_theme .read_more_bt {
+    color: #17c967;
+}
+
+.blue_green_theme .post_info ul li i {
+    color: #17c967;
+}
+
+.blue_green_theme .read_more_bt:hover,
+.blue_green_theme .read_more_bt:focus {
+    color: #17c967;
+}
